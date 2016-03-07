@@ -1,0 +1,5 @@
+{
+	"SiteRoot": "/opt/go/src/github.com/compilewithstyle/alanick_webserver/site_root",
+	"LogFile": "/var/log/alanick.log",
+	"Debug": true
+}
